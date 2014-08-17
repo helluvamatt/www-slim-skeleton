@@ -2,7 +2,7 @@
 
 1. Clone or download this repository
 2. Open composer.json in your favorite editor.
-3. Replace `%package%` with your package name. Eg. `Schneenet\\Application` '''Note:''' Make sure to escape your backslashes!
+3. Replace `%package%` with your package name. Eg. `Schneenet\\Application` __Note:__ Make sure to escape your backslashes!
 4. Replace `%appname%` with your application name. Eg. `Application`
 5. Create application folders: `app/models`, `app/logs`, `app/views`, `app/db` and `data`. (You may only use some of these. Use your descretion.)
 6. Run `composer` to automatically download third-party libraries.
